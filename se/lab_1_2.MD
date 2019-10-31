@@ -49,4 +49,66 @@ t 5 2 w 5037.31
 t 3 9 w 8129.21
 t 8 6 d 1235.67
 t 2 4 d 6901.28
+t 8 10 d 5599.44
+t 6 9 d 1936.16
+t 7 9 d 7363.98
+```
+
+Your program should read in the employee and customer information and update the customer account balance depending
+on the transaction. For example, t 1 8 w 4924.86 means to update the balance for customer 1 by withdrawing
+4924.86 from Devon's account balance of 56442.27875. For each transaction, output customer name, the employee
+name, a plus sign for deposit or a minus sign for withdrawal, the transaction amount, and the new balance after the
+transaction with two decimal places (truncate values; do not worry about rounding). For example, the output for the
+example transaction above would appear as (include the line of digits):
+
+```
+123456789012345678901234567890123456789012345678901234567890
+        Devon Kourtney -$4924.86 $ 51517.42
+```
+
+For the above the data file, your output would be:
+
+```
+123456789012345678901234567890123456789012345678901234567890
+Devon Kourtney -$4924.86 $ 51517.42
+Alessandra Antonetta +$3220.42 $ 11334.96
+Marnie Yong -$ 127.62 $ 15160.16
+Alessandra Kourtney -$5566.70 $ 5768.26
+Alessandra Kourtney +$5414.55 $ 11182.81
+Numbers Florene -$9422.35 $ 41823.31
+Alessandra Florance +$1382.07 $ 12564.88
+Merrill Florene +$6131.07 $104412.90
+Justina
+Justina
+Numbers
+Marnie
+Devon
+Numbers
+Felipe
+Justina
+Lou
+Justina
+Marnie
+Marlana 
+
+
+
+
+
+
+
+Elliott -$2362.22 $ 71361.63
+Florance +$5834.48 $ 77196.11
+Jarvis -$5150.73 $ 36672.58
+Elliott +$3795.96 $ 18956.12
+Marlen -$3919.45 $ 47597.97
+Elliott -$5037.31 $ 31635.27
+Marlen -$8129.21 $ 47213.30
+Antonetta +$1235.67 $ 78431.78
+Jarvis +$6901.28 $101954.73
+Florance +$5599.44 $ 84031.22
+Marlen +$1936.16 $ 20892.28
+Marlen +$7363.98 $ 40616.20
+
+
 ```
