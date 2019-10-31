@@ -90,7 +90,6 @@ Lou Jarvis +$6901.28 $101954.73
 Justina Florance +$5599.44 $ 84031.22
 Marnie Marlen +$1936.16 $ 20892.28
 Marlana Marlen +$7363.98 $ 40616.20
-
 ```
 
 You should create data structures to hold the data for each employee and for the customers,
