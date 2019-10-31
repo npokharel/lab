@@ -78,37 +78,28 @@ Alessandra Kourtney +$5414.55 $ 11182.81
 Numbers Florene -$9422.35 $ 41823.31
 Alessandra Florance +$1382.07 $ 12564.88
 Merrill Florene +$6131.07 $104412.90
-Justina
-Justina
-Numbers
-Marnie
-Devon
-Numbers
-Felipe
-Justina
-Lou
-Justina
-Marnie
-Marlana 
-
-
-
-
-
-
-
-Elliott -$2362.22 $ 71361.63
-Florance +$5834.48 $ 77196.11
-Jarvis -$5150.73 $ 36672.58
-Elliott +$3795.96 $ 18956.12
-Marlen -$3919.45 $ 47597.97
-Elliott -$5037.31 $ 31635.27
-Marlen -$8129.21 $ 47213.30
-Antonetta +$1235.67 $ 78431.78
-Jarvis +$6901.28 $101954.73
-Florance +$5599.44 $ 84031.22
-Marlen +$1936.16 $ 20892.28
-Marlen +$7363.98 $ 40616.20
-
+Justina Elliott -$2362.22 $ 71361.63
+Justina Florance +$5834.48 $ 77196.11
+Numbers Jarvis -$5150.73 $ 36672.58
+Marnie Elliott +$3795.96 $ 18956.12
+Devon Marlen -$3919.45 $ 47597.97
+Numbers Elliott -$5037.31 $ 31635.27
+Felipe Marlen -$8129.21 $ 47213.30
+Justina Antonetta +$1235.67 $ 78431.78
+Lou Jarvis +$6901.28 $101954.73
+Justina Florance +$5599.44 $ 84031.22
+Marnie Marlen +$1936.16 $ 20892.28
+Marlana Marlen +$7363.98 $ 40616.20
 
 ```
+
+You should create data structures to hold the data for each employee and for the customers,
+including their current balance. Then create arrays of these structures. You will need
+counters to keep track of the next available space in each array, as well as to use for
+loop control when searching for information. The arrays may be fixed size base on the
+limits provided above. When you receive a 't" command you can get the employee name
+and customer name and balance from the arrays. Be sure to update the customer balance
+to complete the transaction processing. You will output the iformation as described above.
+
+When you have completed and tested your program on the your system, submit upload it to the assignment as Lab1_2. Be sure to include all the files needed to compile, link and run your program
+if you created more than a single program file.
