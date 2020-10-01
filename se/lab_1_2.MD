@@ -10,6 +10,7 @@ with 't'.
 most 15 characters long.
 
 An example data file is shown below:
+Copy these lines and save it as data.txt and your program should use that file. 
 
 ```
 e 5 Elden
