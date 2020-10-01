@@ -1,4 +1,4 @@
-###### You are to write a program that reads in lines of input using scanf or cin, and file redirection, process the data, and then out the results using printf or cout. This means you can use C or C++  or any other style I/O as is your personal preference.
+###### You are to write a program that reads in lines of input using scanf or cin, and file redirection, process the data, and then out the results using printf or cout. This means you can use C, C++, Java, Php, Python  or any other style I/O as is your personal preference.
 
 1. Each line of th named "transactione data file begins with an 'e', 'c', or 't'.
 2. Lines beginning with 'e' will have an integer employee ID and an employee name.
