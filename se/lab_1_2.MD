@@ -1,6 +1,6 @@
 ###### You are to write a program that reads in lines of input using scanf or cin, and file redirection, process the data, and then out the results using printf or cout. This means you can use C, C++, Java, Php, Python  or any other style I/O as is your personal preference.
 
-1. Each line of th named "transactione data file begins with an 'e', 'c', or 't'.
+1. Each line of the data file begins with an 'e', 'c', or 't'.
 2. Lines beginning with 'e' will have an integer employee ID and an employee name.
 3. Lines beginning with 'c' will have an integer customer ID, customer name, and a floating point account balance.
 4. Lines beginning with a 't' will have a customer ID, employee ID, a 'w' or 'd' representing withdrawal or deposit,and a floating point transaction amount.
