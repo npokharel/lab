@@ -1,4 +1,4 @@
-###### You are to write a program that reads in lines of input using scanf or cin, and file redirection, process the data, and then outthe results using printf or cout. This means you can use C or C++  or any other style I/O as is your personal preference.
+###### You are to write a program that reads in lines of input using scanf or cin, and file redirection, process the data, and then out the results using printf or cout. This means you can use C or C++  or any other style I/O as is your personal preference.
 
 1. Each line of th named "transactione data file begins with an 'e', 'c', or 't'.
 2. Lines beginning with 'e' will have an integer employee ID and an employee name.
@@ -100,5 +100,5 @@ limits provided above. When you receive a 't" command you can get the employee n
 and customer name and balance from the arrays. Be sure to update the customer balance
 to complete the transaction processing. You will output the iformation as described above.
 
-When you have completed and tested your program on the your system, submit upload it to the assignment as Lab1_2. Be sure to include all the files needed to compile, link and run your program
+When you have completed and tested your program on the your system, submit upload it to the assignment as lab1_2_your_name_roll_number. Be sure to include all the files needed to compile, link and run your program
 if you created more than a single program file.
