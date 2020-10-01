@@ -99,7 +99,7 @@ counters to keep track of the next available space in each array, as well as to 
 loop control when searching for information. The arrays may be fixed size base on the
 limits provided above. When you receive a 't" command you can get the employee name
 and customer name and balance from the arrays. Be sure to update the customer balance
-to complete the transaction processing. You will output the iformation as described above.
+to complete the transaction processing. You will output the information as described above.
 
-When you have completed and tested your program on the your system, submit upload it to the assignment as lab1_2_your_name_roll_number. Be sure to include all the files needed to compile, link and run your program
+When you have completed and tested your program on the your system, submit upload it to the assignment as lab_2_your_name_roll_number. Be sure to include all the files needed to compile, link and run your program
 if you created more than a single program file.
